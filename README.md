@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madisetty Dharmadeep</h1>
-<h3 align="center">A passionate Fullstack developer from India. Machine Learning enthusiast</h3>
+<h3 align="center">A passionate Fullstack developer from India and Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bot-code-2003&label=Profile%20views&color=0e75b6&style=flat" alt="bot-code-2003" /> </p>
 
