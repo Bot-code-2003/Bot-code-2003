@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OnePiece Project](https://github.com/Bot-code-2003/Onepiece)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **react, gsap**
 
