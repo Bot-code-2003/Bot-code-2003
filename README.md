@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
 
-- 🔭 I’m currently working on [OnePiece Project](https://github.com/Bot-code-2003/One-piece)
+- 🔭 I’m currently working on [RedThread (A Social Media Community)](https://github.com/Bot-code-2003/RedThread)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
