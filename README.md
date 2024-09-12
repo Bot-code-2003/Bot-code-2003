@@ -3,21 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
 
-- 🔭 I’m currently working on [RedThread](https://github.com/Bot-code-2003/RedThread)
+- 🔭 I’m currently working on [Mythical Realm](https://github.com/Bot-code-2003/Mythical_Realm))
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next js, Color Theory**
 
-- 👯 I’m looking to collaborate on [RedThread](https://github.com/Bot-code-2003/RedThread)
-
-- 🤝 I’m looking for help with [RedThread](https://github.com/Bot-code-2003/RedThread)
-
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, node, redux**
 
 - 📫 How to reach me **dharmadeepmadisetty@gmail.com**
 
-- 📄 Know about my experiences [https://dharmadeep-portfolio.netlify.app](https://dharmadeep-portfolio.netlify.app)
-
-- ⚡ Fun fact **I am obsessed with K,C Dramas and Anime!**
+- ⚡ Fun fact **I am obsessed with UI, Pixel art and nice web designs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
