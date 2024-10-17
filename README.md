@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
 
-- 🔭 I’m currently working on [Mythical Realm](https://github.com/Bot-code-2003/Mythical_Realm))
+- 🔭 I’m currently working on Dev Labs (previously nebula_labs_) [https://](https://github.com/Bot-code-2003/Nebula_lab)
 
-- 🌱 I’m currently learning **Next js, Color Theory**
+- 💬 Ask me about **react, node, redux, web design**
 
-- 💬 Ask me about **react, node, redux**
-
-- 📫 How to reach me **dharmadeepmadisetty@gmail.com**
+- 📫 How to reach me **madisettydharmadeep@gmail.com**
 
 - ⚡ Fun fact **I am obsessed with UI, Pixel art and nice web designs**
 
