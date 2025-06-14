@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
 
-- 🔭 Founder of [Starlit Journals] (https://starlitjournals.vercel.app)
+- 🔭 Founder of [Starlit Journals](https://starlitjournals.vercel.app)
 
 - 💬 Ask me about **react, node, redux, web design**
 
