@@ -47,14 +47,25 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharmadeepMadisetty&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharmadeepMadisetty&theme=tokyonight&hide_border=true" height="160"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bot-code-2003&label=Profile%20views&color=0e75b6&style=flat" alt="bot-code-2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/www.casualyaps.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.casualyaps.com" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmadeepMadisetty&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bot-code-2003&show_icons=true&locale=en&layout=compact" alt="bot-code-2003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-code-2003&show_icons=true&locale=en" alt="bot-code-2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bot-code-2003&" alt="bot-code-2003" /></p>
 
 ---
 
