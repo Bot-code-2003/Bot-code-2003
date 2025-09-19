@@ -1,86 +1,117 @@
-<!-- Dharmadeep Madisetty — Aesthetic GitHub Profile -->
+<!-- Dharmadeep Madisetty — Neon Cyberpunk GitHub Profile -->
 
-<h1 align="center">👋 Hey, I’m Dharmadeep Madisetty</h1>
-<p align="center">
-  <em>AI/ML Engineer @ <a href="https://eminds.ai/">Eminds.ai</a> · Founder of <a href="https://casualyaps.com/">CasualYaps.com</a></em>
+<div align="center">
+
+<!-- 🔮 Animated Typing Intro -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+Dharmadeep+Madisetty+⚡;AI%2FML+Engineer;Generative+AI+Explorer;Founder+of+CasualYaps.com;Cyberpunk+Dreamer+🌌" alt="Typing SVG" />
 </p>
 
+<!-- 🟢 ASCII Glow Header -->
+<pre align="center" style="color:#39ff14;">
+██████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗
+██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗ ████║
+██████╔╝███████║███████║██████╔╝██╔████╔██║
+██╔═══╝ ██╔══██║██╔══██║██╔═══╝ ██║╚██╔╝██║
+██║     ██║  ██║██║  ██║██║     ██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝
+</pre>
+
+<!-- 🎭 Role -->
+<p>
+  <em style="color:#00e6e6;">
+    AI/ML Engineer @ <a href="https://eminds.ai/" style="color:#ff00ff;">Eminds.ai</a> · Founder of <a href="https://casualyaps.com/" style="color:#39ff14;">CasualYaps.com</a>
+  </em>
+</p>
+
+<img src="https://media.giphy.com/media/HBfPnndsh9MpG/giphy.gif" width="400" alt="neon terminal"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🌌 Who Am I?
+
+💡 Exploring **Generative AI** and **Frontend Craft**  
+🚀 Founder of [CasualYaps.com](https://casualyaps.com/)  
+🎨 Inspired by **minimalism × nostalgia × future**  
+🔮 Always tinkering, always building  
+
+---
+
+## ⚡ My Neon Arsenal  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="terminal gif"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=ff00ff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=00e6e6&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=39ff14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=ff00ff&labelColor=000000" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🎮 Beyond the Matrix  
 
-- AI/ML Engineer with a love for **Generative AI** & **Frontend Development**  
-- Founder of [CasualYaps.com](https://casualyaps.com/) 🚀  
-- Always tinkering, building, and exploring cool things on the web  
-- Inspired by minimal design, nostalgia, and future tech  
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" align="right" />
+
+- 🌌 Gaming under neon skies  
+- 🎬 Anime & cyberpunk films as inspiration  
+- 📖 Manga & stories that linger  
+- 🎧 Coffee + synthwave = midnight flow  
 
 ---
 
-## ⚡ Tech Stack  
+## 📊 Digital Footprints  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bot-code-2003&theme=radical&hide_border=true&background=000000&stroke=39ff14&ring=ff00ff&fire=39ff14&currStreakLabel=00e6e6" width="420"/>
 </p>
-
----
-
-## 🎮 Beyond Code  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="gaming gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bot-code-2003&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=ff00ff&text_color=00e6e6" width="420"/>
 </p>
-
-- Gaming late into the night (story-driven adventures 🎮)  
-- Anime & films for a dose of nostalgia 🎬  
-- Reading manga & stories that stay with me 📖  
-- Enjoying quiet escapes: coffee, late-night walks, and music 🎧  
-
----
-
-## 📊 GitHub Stats  
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bot-code-2003&label=Profile%20views&color=0e75b6&style=flat" alt="bot-code-2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003" alt="bot-code-2003" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/www.casualyaps.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.casualyaps.com" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bot-code-2003&show_icons=true&locale=en&layout=compact" alt="bot-code-2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-code-2003&show_icons=true&locale=en" alt="bot-code-2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bot-code-2003&" alt="bot-code-2003" /></p>
-
----
-
-## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/DharmadeepMadisetty"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dharmadeep-madisetty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/<your-username>"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/<your-username>"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bot-code-2003&layout=compact&theme=radical&bg_color=000000&title_color=ff00ff&text_color=39ff14&hide_border=true" width="420"/>
 </p>
 
 ---
 
+## 🏆 Neon Trophies  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="cyberpunk gif"/><br/>
-  <em>“Code. Create. Escape. Repeat.”</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=bot-code-2003&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/DharmadeepMadisetty"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14"/></a>
+  <a href="https://www.linkedin.com/in/dharmadeep-madisetty"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00e6e6"/></a>
+  <a href="https://www.instagram.com/<your-username>"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00ff"/></a>
+  <a href="https://www.pinterest.com/<your-username>"><img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=ff00ff"/></a>
+</p>
+
+---
+
+<!-- 🐍 Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="cyberpunk gif"/>
+
+<h3 style="color:#ff00ff;">
+  ⬢ Code ⬢ Create ⬢ Escape ⬢ Repeat ⬢
+</h3>
+
+</div>
