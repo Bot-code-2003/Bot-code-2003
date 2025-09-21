@@ -1,7 +1,7 @@
 
  <div align="center" style="background:#fdf6e3; padding:20px; border:5px solid #8B4513; border-radius:15px;">
 
-<img src="https://media.giphy.com/media/5biVE87F1MER4UHfGY/giphy.gif" width="100%" alt="castle-banner"/>
+<img src="https://media.giphy.com/media/5biVE87F1MER4UHfGY/giphy.gif" width="80%" height="80%" alt="castle-banner"/>
 
 <h1 style="font-family:MedievalSharp; color:#8B0000; font-size:40px;">
   📜 The Chronicles of Dharmadeep
