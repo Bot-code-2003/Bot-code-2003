@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+Dharmadeep+Madisetty+⚡;AI%2FML+Engineer;Generative+AI+Explorer;Founder+of+CasualYaps.com;Cyberpunk+Dreamer+🌌" alt="Typing SVG" /> </p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+Dharmadeep+⚡;Cyber Punk Geek;" alt="Typing SVG" />
+</p>
 
 <pre align="center" style="color:#39ff14;">
 ██████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗
