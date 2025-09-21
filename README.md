@@ -57,7 +57,7 @@
   ✦ In Code We Trust ✦
 </h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZkZHM0dmxhcTB5Y2s1cm82YjdvdXR1aWc2bXVyaDBsamFpcWt1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oFQxlyTLWPCQYV9gbT/giphy.gif" width="150" alt="torch"/>   
+<img src="https://i.ibb.co/hJYyMY8M/Untitled-design-2.png" width="150" alt="torch"/>   
 
 </div>
 
