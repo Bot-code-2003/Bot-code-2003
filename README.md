@@ -1,74 +1,73 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/5biVE87F1MER4UHfGY/giphy.gif" width="80%" alt="castle-banner"/>
 
-  <h1>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBtbnZ4N2MyMTFtczlwdTN3YzA1ZHJ2Zng3aGF3OG4xbjNnazBzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/142UUuhYoZqlG/giphy.gif" width="50" alt="crown"/>
-    The Chronicle of Dharmadeep Madisetty
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBtbnZ4N2MyMTFtczlwdTN3YzA1ZHJ2Zng3aGF3OG4xbjNnazBzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/142UUuhYoZqlG/giphy.gif" width="50" alt="crown"/>
-  </h1>
-  <p><em>"AI/ML Engineer"</em></p>
+<div align="center">
+
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=⚡+Dharmadeep Madisetty+⚡;Cyber+Punk+Geek;" alt="Typing SVG" /></p>
+
+<pre align="center" style="color:#39ff14;">
+██████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗
+██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗ ████║
+██████╔╝███████║███████║██████╔╝██╔████╔██║
+██╔═══╝ ██╔══██║██╔══██║██╔═══╝ ██║╚██╔╝██║
+██║     ██║  ██║██║  ██║██║     ██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝
+</pre>
+
+<p>
+  <em style="color:#00e6e6;">
+    AI/ML Engineer
+  </em>
+</p>
+
+<img src="https://media.giphy.com/media/HBfPnndsh9MpG/giphy.gif" width="400" alt="neon terminal"/>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### 📜 From the Royal Scribe
-> _Hear ye, hear ye! The following pages document the valiant deeds and noble pursuits of our most esteemed artisan._
-<br>
+## 🌌 Who Am I?
+
 Exploring Generative AI and Frontend Craft.<br/> Founder of CasualYaps.com.<br/>Inspired by minimalism, nostalgia, and the future.<br/>Always tinkering, always building.
 
----
+## ⚡ My Neon Arsenal  
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Next.js-FF073A?style=for-the-badge&logo=nextdotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=000000"/> <img src="https://img.shields.io/badge/Go-FFFF00?style=for-the-badge&logo=go&logoColor=000000"/> <img src="https://img.shields.io/badge/Rust-FF6600?style=for-the-badge&logo=rust&logoColor=000000"/>
+</p>
 
-| | |
-| :--- | :--- |
-| <img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc1MGtycG9jNmJkdTV0Y3prZWJiYjA1ejM2c2p6czFhYWIxYTgwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TNb3Ihssb6T5FpcdOY/giphy.gif" alt="sword-and-shield"/> | ⚔️ The Artisan's Toolkit<br> <div align="left"><img src="https://img.shields.io/badge/React-999999?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Next.js-999999?style=for-the-badge&logo=nextdotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-999999?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-999999?style=for-the-badge&logo=python&logoColor=000000"/> <img src="https://img.shields.io/badge/Go-999999?style=for-the-badge&logo=go&logoColor=000000"/> <img src="https://img.shields.io/badge/Rust-999999?style=for-the-badge&logo=rust&logoColor=000000"/></div> |
-| <img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFkNHBqNmdwZzZ0bDExYzh1NDA3MXN2azAycHkxMGkxMmRmNW0ydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11dzD6gWgmR8Qg/giphy.gif" alt="quill-and-ink"/> | 🖋️ A Poet's Pastimes<br> <div align="left">Gaming under neon skies<br/>Anime & cyberpunk films<br/>Manga & stories that linger<br/>Coffee + synthwave</div> |
+## 🎮 Beyond the Matrix  
 
-<br>
-
----
-
-### 📊 The Grand Ledger
+Gaming under neon skies<br/>Anime & cyberpunk films<br/>Manga & stories that linger<br/>Coffee + synthwave
+## 📊 Digital Footprints  
 <div align="center">
-  <p>_A record of the scribe's dedication, penned with every commit._</p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aRz2gfH1AXGA23CsN3zwS2HV6CVGHJ_YQQ&s" align="right" width="230" alt="ledger-book-art"/>
-</div>
-<br>
 
   <a href="https://github.com/Bot-code-2003">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Bot-code-2003&theme=gruvbox" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Bot-code-2003&theme=radical" />
   </a>
   <a href="https://github.com/Bot-code-2003">
-    <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=Bot-code-2003&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+    <img width="60%" src="http://github-readme-streak-stats.herokuapp.com/?user=Bot-code-2003&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
   </a>
   
-<br>
-<br>
-
----
-
-### 👑 Hall of Triumphs
-> _These decrees were earned through feats of skill and perseverance._
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bot-code-2003&theme=chalk"/>
-
 </div>
+## 🏆 Neon Trophies  
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Bot-code-2003&theme=onedark"/>
 
-### 🤝 The King's Messengers
-_Dispatching the latest news and connecting with fellow guilds._
-<br>
+## 🔗 Connect with Me  
+
 - **github**: Bot-code-2003
 - **twitter**: your-twitter-handle
 - **linkedin**: your-linkedin-profile
 - **website**: CasualYaps.com
-<br>
-
----
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnM5bWZoOTc0NWZhczk3ZjEzNXl0eXU2ajRkdGcwOW83aTZ0aGR2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" width="300" alt="knight-footer"/>
-  <p>_May your code be noble and your fortress secure._</p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVoaHFqZGl2bDljN25tc3p2ZG1uZTFzeXJiaW90cmozNzhhNGNoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jow0htwvROxzepF0UZ/giphy.gif" width="100%" alt="cyberpunk gif"/>
+
+<h3 style="color:#ff00ff;">
+  ⬢ Code ⬢ Create ⬢ Escape ⬢ Repeat ⬢
+</h3>
+
 </div>
