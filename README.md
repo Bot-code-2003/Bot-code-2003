@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/5biVE87F1MER4UHfGY/giphy.gif" width="100%" alt="castle-banner"/>
+  <img src="https://media.giphy.com/media/5biVE87F1MER4UHfGY/giphy.gif" width="80%" alt="castle-banner"/>
 
   <h1>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBtbnZ4N2MyMTFtczlwdTN3YzA1ZHJ2Zng3aGF3OG4xbjNnazBzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/142UUuhYoZqlG/giphy.gif" width="50" alt="crown"/>
